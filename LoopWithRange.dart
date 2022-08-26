@@ -5,7 +5,7 @@ Iterable<int> range(int low, int high) sync* {
 }
 
 void main() {
-  for(final i in range(1, 20)) {
+  for(final i in range(4, 9)) {
     print(i);
   }
 }
